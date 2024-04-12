@@ -1,0 +1,73 @@
+.one {
+    position: absolute;
+    border: 1px green solid;
+    border-radius: 10px;
+    padding: 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    width: 60%;
+    margin-left: 60px;
+}
+.one b{
+    position: relative;
+    left:40%;
+    font-size: 27px;
+}
+.one p i{
+    color:red;
+}
+.two{
+    position: absolute;
+    border: 1px green solid;
+    border-radius: 10px;
+    padding: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 40%;
+    margin-left: 140px;
+    top: 180px;
+}
+.two p{
+    padding-left: 20px;
+}
+.three{
+    position:absolute;
+    border: 1px green solid;
+    border-radius: 10px;
+    padding: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    top: 290px;
+    margin-left: 40px;
+    width: 40%;
+
+
+}
+.three i{
+    color: red;
+
+}
+.three p{
+    background-color: black;
+    color: yellow;
+    border-radius: 1px;
+    border:1 green solid;
+    padding :10px;
+
+}
+.four{
+    position: absolute;
+    border: 1px green solid;
+    border-radius: 10px;
+    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    top: 550px;
+    margin-left: 60px;
+    padding-left: 400px;
+    background-color: green;
+    color : yellow;
+
+
+
+}
